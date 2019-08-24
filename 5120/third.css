@@ -1,0 +1,42 @@
+
+
+        div.bar {
+            display: inline-block;
+            width: 20px;
+            height: 75px;
+            margin-right: 2px;
+            background-color: teal;
+
+        }
+        rect {
+          -moz-transition: all .3s;
+          -o-transition:all .3s;
+          -webkit-transition: all .3s;
+          transition: all .3s;
+        }
+        rect:hover {
+          fill:orange;
+
+        }
+        #tooltip {
+            position:absolute;
+            width: 150px;
+            height: auto;
+            padding:5px;
+            background-color: white;
+            border:1px solid #ccc;
+            -webkit-border-radius:10px;
+            -moz-border-radius:10px;
+            border-radius: 10px;font-style: 
+            -webkit-box-shadow:4px 4px 10px rbga(0,0,0,0.4);
+            -moz-box-shadow:4px 4px 10px rbga(0,0,0,0.4);
+            box-shadow:4px 4px 10px rbga(0,0,0,0.4);
+            pointer-events: none;
+        }
+        #tooltip.hidden{display: none;}
+        #tooltip p {
+            margin:0;
+            font-family: sans-serif;
+            font-size: 16px;
+            line-height: 20px;
+        }

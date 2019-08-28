@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://13.234.93.46/home-2/be-ready-to-adopt/schedule-creation/
+  http://13.234.93.46/home-2/let-get-started/be-ready-to-adopt/schedule-creation/
 published: true
 post_date: 2019-08-24 02:47:06
 ---

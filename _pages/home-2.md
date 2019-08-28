@@ -4,7 +4,7 @@ post_title: Home
 author: user
 post_excerpt: ""
 layout: page
-permalink: https://patmydog.tk/
+permalink: http://13.234.93.46/
 published: true
 post_date: 2019-08-22 05:54:28
 ---

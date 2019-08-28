@@ -20,4 +20,5 @@ post_date: 2019-08-22 01:51:17
 			<a href="http://13.234.93.46/home-2/let-get-started/be-ready-to-adopt/" role="button">
 						BE READY TO ADOPT
 					</a>
+		<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<noscript>< a href=' '>< img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SK&#47;SKHRZP99G&#47;1_rss.png' style='border: none' /></ a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;SKHRZP99G' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SK&#47;SKHRZP99G&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object>

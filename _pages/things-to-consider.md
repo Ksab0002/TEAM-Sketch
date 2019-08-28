@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://13.234.93.46/home-2/be-ready-to-adopt/things-to-consider/
+  http://13.234.93.46/home-2/let-get-started/things-to-consider/
 published: true
 post_date: 2019-08-22 03:00:12
 ---

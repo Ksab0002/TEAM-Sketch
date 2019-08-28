@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://13.234.93.46/home-2/let-get-started/be-ready-to-adopt/basic-requirements/
+  https://patmydog.tk/home-2/let-get-started/be-ready-to-adopt/basic-requirements/
 published: true
 post_date: 2019-08-22 03:00:01
 ---

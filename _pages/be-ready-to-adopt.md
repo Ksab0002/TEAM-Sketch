@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  https://patmydog.tk/home-2/let-get-started/be-ready-to-adopt/
+  http://13.234.93.46/home-2/let-get-started/be-ready-to-adopt/
 published: true
 post_date: 2019-08-28 03:32:21
 ---

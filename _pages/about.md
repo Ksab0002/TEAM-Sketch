@@ -4,7 +4,7 @@ post_title: About Us
 author: user
 post_excerpt: ""
 layout: page
-permalink: https://13.234.93.46/about/
+permalink: http://13.234.93.46/about/
 published: true
 post_date: 2019-08-23 03:46:27
 ---

@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  https://13.234.93.46/home-2/let-get-started/
+  http://13.234.93.46/home-2/let-get-started/
 published: true
 post_date: 2019-08-22 01:51:17
 ---
